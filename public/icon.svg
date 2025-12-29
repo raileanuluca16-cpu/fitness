@@ -1,0 +1,18 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @media (prefers-color-scheme: light) {
+      .background { fill: #0b0b0b; }
+      .accent { fill: #39ff14; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .background { fill: #0b0b0b; }
+      .accent { fill: #39ff14; }
+    }
+  </style>
+  <rect class="background" width="512" height="512" rx="96" />
+  
+  <!-- Custom Gym Logo -->
+  <path class="accent" d="M110 160h180l-28 48H198v48h104l-28 48H198v96h-88z" fill="#ffffff"></path>
+  <path class="accent" d="M322 160h88l-64 112 64 112h-88l-64-112z" fill="#ffffff"></path>
+  <path class="accent" d="M256 224l-32 64h32l-16 64 64-96h-32l16-32z" fill="#39ff14"></path>
+</svg>
